@@ -1,0 +1,3 @@
+Temp/ScriptUpdater/1586229795/1446459390_JumpOnTouch.cs => Assets/Scripts/JumpOnTouch.cs
+Temp/ScriptUpdater/1586229795/114333065_TouchOnMovement.cs => Assets/Scripts/TouchOnMovement.cs
+Temp/ScriptUpdater/1586229795/267218102_PlayerMovement.cs => Assets/Scripts/PlayerMovement.cs
